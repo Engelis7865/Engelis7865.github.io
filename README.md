@@ -1,7 +1,5 @@
 # Engelis7865.github.io
 
-# Решение первой задачи
-[1.htmt][./2.html]
-
 # Решение второй задачи
-[2.htmt][]
+[Решение второй задачи (2.html)](https://engelis7865.github.io/2.html)
+
